@@ -69,3 +69,12 @@ A secure IPSec VPN tunnel connects HQ and Branch to allow encrypted communicatio
 ---
 🏁 Final Notes
 This project demonstrates secure, scalable, and structured network deployment using FortiGate firewalls and Cisco switching. The configuration ensures proper segmentation, security enforcement, and VPN-based inter-branch communication.
+
+---
+🧑‍💻 Team Members
+Abdulrahman Badr Metwaly
+Mustafa Hesham Elkolaly
+Abdulrahman Mohamed Kamel
+Abdelwahab Nabil Zakaria
+Mustafa Abdelhady Mohammed
+
