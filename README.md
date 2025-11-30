@@ -1,4 +1,4 @@
-📡 FortiGate HQ & Branch Network Project
+📡 ortiGate HQ & Branch Network Project
 A practical implementation project focusing on secure enterprise network design using FortiGate firewalls, VLAN segmentation, NAT, routing, and IPSec VPN.
 ---
 🛠️ Project Overview
